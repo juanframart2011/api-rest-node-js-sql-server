@@ -1,4 +1,4 @@
-const cinfig = {
+const config = {
     user: 'sa',
     password: '',
     server: 'localhost',
@@ -9,3 +9,5 @@ const cinfig = {
         encrypt: false
     }
 }
+
+module.exports = config;
